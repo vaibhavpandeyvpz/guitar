@@ -7,7 +7,7 @@ using System.Resources;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Guitar")]
-[assembly: AssemblyDescription("GUI utility for creting ODIN flashable *.tar{,.md5} archives")]
+[assembly: AssemblyDescription("GUI utility for creating ODIN flashable *.tar{,.md5} archives")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Vaibhav Pandey")]
 [assembly: AssemblyProduct("Guitar")]
