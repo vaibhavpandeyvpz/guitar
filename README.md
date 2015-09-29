@@ -6,7 +6,7 @@ A simple, open-source, graphical utility written in C# to create **ODIN** compat
 
 ![Screenshot](https://raw.githubusercontent.com/vaibhavpandeyvpz/guitar/master/Resources/screenshot.png "Screenshot")
 
-Since this is [on GitHub](https://github.com/vaibhavpandeyvpz/guitar), let me know if you forked and got some improvements read to merge.
+Since this is [on GitHub](https://github.com/vaibhavpandeyvpz/guitar), let me know if you forked and got some improvements ready to merge.
 
 ### Credits:
 
